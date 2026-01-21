@@ -1,0 +1,4 @@
+/.venv
+/coorpost_env
+/tests
+/test_with_sample_data.py

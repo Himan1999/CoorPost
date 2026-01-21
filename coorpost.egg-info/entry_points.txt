@@ -1,0 +1,2 @@
+[console_scripts]
+coorpost = coorpost.cli:main
