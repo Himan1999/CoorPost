@@ -401,7 +401,7 @@ This package is inspired by and adapted from:
 ## Support
 
 For questions, issues, or feature requests:
-- Open an [issue](https://github.com/yourusername/CoorPost/issues)
+- Open an [issue](https://github.com/Himan1999/CoorPost/issues)
 - Email: your.email@example.com
 
 ## Changelog

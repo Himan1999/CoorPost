@@ -18,7 +18,7 @@ __email__ = "your.email@example.com"
 
 from .detect import detect_groups
 from .network import generate_coordinated_network
-from .stats import account_stats, group_stats
+from .stats import account_stats, group_stats, network_summary
 from .utils import prep_data, compute_image_hash
 from .viz import visualize_network
 
@@ -27,6 +27,7 @@ __all__ = [
     "generate_coordinated_network",
     "account_stats",
     "group_stats",
+    "network_summary",
     "prep_data",
     "compute_image_hash",
     "visualize_network",
